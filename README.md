@@ -1,4 +1,4 @@
-# yhata-sales-app
+#  yhata-sales-app
 Enterprise-grade Angular + Ionic mobile application developed for a U.S.-based client, enabling sales representatives to manage customers, create offline orders, and sync data with Microsoft Dynamics 365 (D365).
 Designed for field sales teams, the app provides offline-first functionality, secure authentication, and real-time synchronization with enterprise systems — ensuring seamless operation even without internet connectivity.
 
